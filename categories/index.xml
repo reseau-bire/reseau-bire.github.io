@@ -5,6 +5,16 @@
     <link>http://reseau-bire.github.io/categories/</link>
     <description>Recent content in Categories on {BIRE} Réseau Brest Info ESR</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>fr</language><atom:link href="http://reseau-bire.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <language>fr</language>
+    <lastBuildDate>Thu, 26 Nov 2020 12:13:35 +0100</lastBuildDate><atom:link href="http://reseau-bire.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Journée</title>
+      <link>http://reseau-bire.github.io/categories/journ%C3%A9e/</link>
+      <pubDate>Thu, 26 Nov 2020 12:13:35 +0100</pubDate>
+      
+      <guid>http://reseau-bire.github.io/categories/journ%C3%A9e/</guid>
+      <description></description>
+    </item>
+    
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{BIRE} on {BIRE} Réseau Brest Info ESR</title>
-    <link>http://reseau-bire.github.io/</link>
-    <description>Recent content in {BIRE} on {BIRE} Réseau Brest Info ESR</description>
+    <title>Events on {BIRE} Réseau Brest Info ESR</title>
+    <link>http://reseau-bire.github.io/events/</link>
+    <description>Recent content in Events on {BIRE} Réseau Brest Info ESR</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Nov 2020 12:13:35 +0100</lastBuildDate><atom:link href="http://reseau-bire.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 26 Nov 2020 12:13:35 +0100</lastBuildDate><atom:link href="http://reseau-bire.github.io/events/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Journée thématique Ansible</title>
       <link>http://reseau-bire.github.io/events/2021-ansible/</link>
