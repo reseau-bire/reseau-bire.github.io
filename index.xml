@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>{BIRE} on {BIRE} Réseau Brest Info ESR</title>
+    <title>{BIRE} on {BIRE} Réseau Brest Informaticiens établissements Recherche&amp;Education</title>
     <link>http://reseau-bire.github.io/</link>
-    <description>Recent content in {BIRE} on {BIRE} Réseau Brest Info ESR</description>
+    <description>Recent content in {BIRE} on {BIRE} Réseau Brest Informaticiens établissements Recherche&amp;Education</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>fr</language>
     <lastBuildDate>Thu, 26 Nov 2020 12:13:35 +0100</lastBuildDate><atom:link href="http://reseau-bire.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -15,7 +15,7 @@
       <guid>http://reseau-bire.github.io/events/2021-ansible/</guid>
       <description>Journée thématique Ansible Cette journée, première journée du réseau {BIRE} a pour thème le système libre pour la configuration et la gestion des ordinateurs Ansible.
 Pour cette journée, nous avons choisi de proposer une formation sous forme d&amp;rsquo;introduction à Ansible le matin et une session de retour d&amp;rsquo;expérience l&amp;rsquo;après-midi.
- Informations  Date : 21 janvier 2021 Localisation : Plouzané - amphithéatre Pôle Numérique Brest Iroise Mode : Mode mixte, présentiel &amp;amp; visiconférence  Programme Introduction Ansible (facultatif) 9h30 - 12h30 | Amphi PNBI (Plouzané)</description>
+ Informations  Date : 21 janvier 2021 Localisation : Plouzané - amphithéatre Pôle Numérique Brest Iroise Mode : Mode mixte, présentiel &amp;amp; visiconférence  Programme (provisoire) Automatisation avec Ansible (facultatif) 9h00 - 12h00 | Amphi PNBI (Plouzané)</description>
     </item>
     
   </channel>
